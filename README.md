@@ -21,7 +21,6 @@ This guide helps you complete **15 GitHub commits on 10 June** easily using **Gi
 - After repo creation, click the green `<> Code` button  
 - Select: **Open with Codespaces → + New codespace**  
 - Wait for Codespace to load (~20 seconds)
-
 ---
 
 ### 3️⃣ Open Terminal in Codespace
